@@ -1,1 +1,1 @@
-# social-media-app
+# prac-react--app
